@@ -1,9 +1,6 @@
-    // Calculate sum
-    sum = a + b;
 
-    // Display the result
+    sum = a + b;
     printf("Sum of %d and %d is %d\n", a, b, sum);
-        // Check if the sum is even or odd
     if (sum % 2 == 0) {
         printf("The sum is even.\n");
     } else {
